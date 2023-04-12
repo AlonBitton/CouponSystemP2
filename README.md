@@ -41,7 +41,7 @@ To run the project, you need to have the following installed on your system:
 
 2. Start the back-end [Run with Maven or from supported IDEA (Eclipse, IntelliJ etc..)]
 
-- 'mvn spring-boot:run'
+- `mvn spring-boot:run`
 
 
 ## Room for Improvement
